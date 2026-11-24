@@ -1,4 +1,4 @@
-"""use client""";
+"use client";
 import React, { useState, useEffect } from 'react';
 import { Target, CalendarDays, BarChart, Sparkles, AlertCircle } from 'lucide-react';
 import { fetchHabits, toggleHabitDateInDb } from '../app/actions';
