@@ -1,4 +1,4 @@
-"""use client""";
+"use client";
 import React, { useState } from 'react';
 import { CheckCircle2, Circle, Bot, Cpu, ShoppingCart, Sparkles, Calendar, ChevronDown, ChevronRight } from 'lucide-react';
 
