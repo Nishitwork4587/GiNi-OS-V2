@@ -1,0 +1,16 @@
+{
+  "name": "GiNi OS",
+  "short_name": "GiNi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eef0fe",
+  "theme_color": "#8173ee",
+  "icons": [
+    {
+      "src": "/Golden G-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
