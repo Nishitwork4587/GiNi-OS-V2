@@ -1,4 +1,4 @@
-"""use client""";
+"use client";
 import React, { useState, useEffect, useRef } from 'react';
 import Papa from 'papaparse';
 import { fetchExpenses, addExpenseToDb, bulkAddExpenses } from '../app/actions';
